@@ -11,7 +11,7 @@
 			showPlaceHolder: true,
 			placeHolderText: 'Ej: 1.234.567-8',
 			errorClass: 'invalid',
-			maxLength: 12,
+			maxLength: 15,
 			addMaxLength: true,
 			isRequired: true,
 			keepFocusOnError: false,
