@@ -1,4 +1,5 @@
-jquery.inputRut.js
-==================
+# jquery.inputRut.js #
 
 jquery plugin input rut (módulo 11)
+
+
